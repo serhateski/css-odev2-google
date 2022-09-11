@@ -1,0 +1,38 @@
+.search-box {
+    background-color: rgb(197, 182, 182);
+    width: 1350px;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 70px; 
+    text-align: center;
+}
+
+.left-box {
+    background-color: rgb(39, 160, 154);
+    width: 480px;
+    margin-left: 70px;
+
+    height: 70px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.middle-box {
+    background-color: rgb(22, 145, 124);
+    height: 70px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    float:right;
+}
+
+.right-box {
+    background-color: rgb(31, 138, 123);
+    height: 70px;
+    width: 500px;
+    
+    text-align: center;
+    padding: 10px;
+    float:right;
+}
